@@ -1,5 +1,5 @@
 # Batalha Naval em Python
-**Autor:** Tiago Miglioli e Felipe Kruppa
+**Autores:** Tiago Miglioli e Felipe Krupa
 
 Projeto desenvolvido como exercício prático para consolidar conhecimentos em **lógica de programação**, **estruturas de dados** e **boas práticas de desenvolvimento em Python**.  
 O jogo é totalmente interativo no terminal e permite jogar contra outro jogador ou contra a IA.
